@@ -1,0 +1,9 @@
+{
+  "foldHeading": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "promptDelete": false
+}
