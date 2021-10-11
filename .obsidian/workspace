@@ -6,10 +6,11 @@
       {
         "id": "6c5209ac9a57f793",
         "type": "leaf",
+        "dimension": 50.128205128205124,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202110111443.md",
+            "file": "Круговорот алкашки или динамо жизни..md",
             "mode": "source"
           }
         }
@@ -17,10 +18,11 @@
       {
         "id": "65be8b25c4d85b29",
         "type": "leaf",
+        "dimension": 49.871794871794876,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nodes/202110111449.md",
+            "file": "README.md",
             "mode": "preview"
           }
         }
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202110111443.md",
+                "file": "Круговорот алкашки или динамо жизни..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202110111443.md"
+                "file": "Круговорот алкашки или динамо жизни..md"
               }
             }
           }
@@ -120,6 +122,10 @@
   },
   "active": "6c5209ac9a57f793",
   "lastOpenFiles": [
+    "Круговорот алкашки или динамо жизни..md",
+    "README.md",
+    "nodes/Простой парень.md",
+    "Untitled.md",
     "202110111443.md",
     "nodes/202110111449.md",
     "202110111449.md",
