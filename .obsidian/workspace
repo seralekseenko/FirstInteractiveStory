@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6c5209ac9a57f793",
+        "id": "62530231a82e61b5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "nodes/Взаимовыгодное_сотрудничество.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "99a124e54a7b1ee3"
       },
       {
-        "id": "4510e51836ff8f43",
+        "id": "b4a90447eb53ebf0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "nodes/Взаимовыгодное_сотрудничество.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "99a124e54a7b1ee3"
       }
     ],
     "direction": "vertical"
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "nodes/Взаимовыгодное_сотрудничество.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "nodes/Взаимовыгодное_сотрудничество.md"
               }
             }
           }
@@ -118,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c5209ac9a57f793",
+  "active": "62530231a82e61b5",
   "lastOpenFiles": [
-    "README.md",
-    "screanshots/chande_lang.png.md",
-    "Круговорот алкашки или динамо жизни..md",
+    "nodes/Без названия.md",
+    "nodes/Роковая встреча с бабкой.md",
+    "nodes/Революционная_мысль.md",
+    "nodes/Бабкина история.md",
     "nodes/Простой_парень.md",
-    "nodes/Простой парень.md",
-    "Untitled.md",
-    "202110111443.md",
-    "nodes/202110111449.md",
-    "202110111449.md",
-    "nodes/Untitled.md"
+    "nodes/Революционная мысль.md",
+    "Круговорот алкашки или динамо жизни..md",
+    "Бфбкина история.md",
+    "nodes/endes/Лови топор!.md",
+    "README.md"
   ]
 }

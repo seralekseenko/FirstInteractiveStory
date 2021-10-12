@@ -9,5 +9,17 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "screenshots"
+  "attachmentFolderPath": "screenshots",
+  "spellcheckDictionary": [
+    "литербола",
+    "бомж-нищеброд",
+    "хавкой",
+    "хавчик",
+    "картофана",
+    "ноду",
+    "ноду",
+    "ноде",
+    "ноде",
+    "шмурдяка"
+  ]
 }
