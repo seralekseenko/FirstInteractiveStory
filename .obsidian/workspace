@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "metadata.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "metadata.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "metadata.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "62530231a82e61b5",
   "lastOpenFiles": [
+    "metadata.md",
     "README.md",
+    "Без названия.md",
     "Круговорот алкашки или динамо жизни..md",
     "nodes/Роковая встреча с бабкой.md",
     "nodes/Взаимовыгодное_сотрудничество.md",
     "nodes/Революционная_мысль.md",
     "nodes/Без названия.md",
     "nodes/Бабкина история.md",
-    "nodes/Простой_парень.md",
-    "nodes/Революционная мысль.md",
-    "Бфбкина история.md"
+    "nodes/Простой_парень.md"
   ]
 }
