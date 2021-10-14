@@ -7,11 +7,8 @@
         "id": "62530231a82e61b5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "metadata.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "99a124e54a7b1ee3"
       },
@@ -21,7 +18,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "metadata.md",
+            "file": "README.md",
             "mode": "preview"
           }
         },
@@ -81,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "metadata.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -122,15 +116,15 @@
   },
   "active": "62530231a82e61b5",
   "lastOpenFiles": [
-    "metadata.md",
     "README.md",
+    "nodes/Бабкина история.md",
+    "nodes/Революционная_мысль.md",
+    "metadata.md",
     "Без названия.md",
     "Круговорот алкашки или динамо жизни..md",
     "nodes/Роковая встреча с бабкой.md",
     "nodes/Взаимовыгодное_сотрудничество.md",
-    "nodes/Революционная_мысль.md",
     "nodes/Без названия.md",
-    "nodes/Бабкина история.md",
     "nodes/Простой_парень.md"
   ]
 }
